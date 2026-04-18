@@ -1,1 +1,1 @@
-# CET-Ranking
+This project is about AI based CET ranking
